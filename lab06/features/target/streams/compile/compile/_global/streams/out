@@ -1,0 +1,4 @@
+[debug] Acquiring lock on file C:\Users\User\sb-spark\lab06\features\project\target\.sbt-compilation-infos\root-compile\.sbt-idea-lock ...
+[warn] there was one feature warning; re-run with -feature for details
+[warn] one warning found
+[debug] Releasing lock on file C:\Users\User\sb-spark\lab06\features\project\target\.sbt-compilation-infos\root-compile\.sbt-idea-lock.
