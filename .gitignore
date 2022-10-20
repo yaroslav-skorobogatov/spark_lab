@@ -1,5 +1,5 @@
-**/*.class
-**/*.log
-**/*.jar
-**/*.idea
-**/target
+*.class
+*.log
+*.jar
+*.idea
+target
